@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+}
+
+#header-title{
+    color: midnightblue;
+    text-align: center;
+    margin: auto;
+}
+
+#menu-area{
+    display: flexbox;
+    margin: auto;
+    padding-top: 20px;
+    justify-content: space-evenly;
+    max-width: 900px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#graph-container{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 900px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 1px;
+}
